@@ -39,8 +39,8 @@ AppConfigs.ApiKeyConfig.Secret : holds Api-key value.
 ============================================================================
 
 
-AppConfigs.ConnectionStrings : holds values for Npgsql connections
-
+AppConfigs.ConnectionStrings : holds CONNECTION VALUES for Npgsql connections
+Run Db Migration with add-migration and update-database
 ============================================================================
 
 Log files can be found in \Logs in the root directory of the application.
